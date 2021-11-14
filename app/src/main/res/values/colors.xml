@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="inputbg">#F07470</color>
+
+    <color name="verifybg">#C697110D</color>
+
+    <color name="loginbackbg">#B0EF524D</color>
+
+    <color name="todobg">#A8ED4F4A</color>
+
+    <color name="todosavebg">#BA9E7371</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+
+    <color name="viewHistory">#C3764D4D</color>
+
+    <color name="purple_500">#FF6200EE</color>
+
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+
+    <color name="teal_700">#FF018786</color>
+
+    <color name="Editbg">#F0E68C</color>
+
+    <color name="deletebg">#BCF9CAC8</color>
+
+    <color name="setbg">#B9459C77</color>
+
+    <color name="cancelbg">#CE9A9595</color>
+
+    <color name="backtotodobg">#BA4EB38F</color>
+
+    <color name="backgroundColor">#ff7f7f</color>
+
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    android:layout_margin="13dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vaccine Name"
+            android:textColor="#000"
+            android:textSize="24dp"
+            android:padding="8dp"
+            android:id="@+id/tv_vname"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:id="@+id/tv_vdate"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textColor="#000"
+            android:textSize="18dp"
+            android:padding="8dp"
+            android:id="@+id/tv_vdesc"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Got/Not"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:padding="8dp"
+            android:id="@+id/tv_vgot"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

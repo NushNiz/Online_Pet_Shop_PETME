@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.authenticationapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AuthenticationApp">
+        <activity
+            android:name=".UserProfile"
+            android:exported="true" />
+        <activity
+            android:name=".Add_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewVaccines"
+            android:exported="true" />
+        <activity
+            android:name=".Vaccination"
+            android:exported="true" />
+        <activity
+            android:name=".ConvertOzToKg"
+            android:exported="true" />
+        <activity
+            android:name=".BMI_Calculator"
+            android:exported="true" />
+        <activity
+            android:name=".Reminder"
+            android:exported="true" />
+        <activity
+            android:name=".verification"
+            android:exported="true" />
+        <activity
+            android:name=".ShowActivity"
+            android:exported="true" />
+        <activity
+            android:name=".todo_list"
+            android:exported="true" />
+        <activity
+            android:name=".DonatePet_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Medicine_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Food_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Equipment_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Toy_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Wanted_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Loading"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:exported="true"></activity>
+        <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
+            android:name=".RecycleViewList"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecycleViewMedicine"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecycleViewFood"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecyclerViewEquipment"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecyclerViewYoy"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecyclerViewWanted"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"></activity>
+
+        <receiver android:name=".AlarmReciever" />
+    </application>
+
+</manifest>

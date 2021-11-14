@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AuthenticationApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19947916666666668" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_bmi_calculator.xml" value="0.22" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_convert_oz_to_kg.xml" value="0.22" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_donate_pet.xml" value="0.18" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_login.xml" value="0.19746376811594202" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_main.xml" value="0.189873417721519" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_list.xml" value="0.18333333333333332" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_reminder.xml" value="0.21" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_show.xml" value="0.25" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_todo.xml" value="0.182518115942029" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_todo_list.xml" value="0.25" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_vaccination.xml" value="0.18" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_verification.xml" value="0.17798913043478262" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/activity_view_vaccines.xml" value="0.1" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/content.xml" value="0.14402173913043478" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/desgin_row_for_recyclerview.xml" value="0.25" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/header.xml" value="0.20833333333333334" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/item.xml" value="0.17798913043478262" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/layout/vaccines.xml" value="0.1" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/menu/searchbar.xml" value="0.18333333333333332" />
+        <entry key="..\:/AuthenticationApp/app/src/main/res/menu/searchbar_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Petme b1/b9/AuthenticationApp/app/src/main/res/layout/activity_loading.xml" value="0.17543859649122806" />
+        <entry key="..\:/Petme b1/b9/AuthenticationApp/app/src/main/res/layout/activity_show.xml" value="0.1" />
+        <entry key="..\:/Petme b1/b9/AuthenticationApp/app/src/main/res/layout/activity_view_history.xml" value="0.25" />
+        <entry key="..\:/Users/Pavani/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_login.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_add.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_donate_pet.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_loading.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_list.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_equip_posts.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_equip_profile.xml" value="0.16359649122807018" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_food_posts.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_food_profile.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_medicine_posts.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_medicine_profile.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_pet_profile.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_posts.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_toys_posts.xml" value="0.15526315789473685" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_toys_profile.xml" value="0.14342105263157895" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_wanted_posts.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_user_wanted_profile.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/activity_view_history.xml" value="0.25" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/desgin_row_for_recyclerview.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/prifile_desgin.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/layout/profile_desgin.xml" value="0.17543859649122806" />
+        <entry key="..\:/Users/Pavani/Desktop/AuthenticationApp/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_add.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_bmi_calculator.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_donate_pet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_loading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_main.xml" value="0.4165781083953241" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_medicine.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_equipment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_wanted.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_yoy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_register.xml" value="0.17192982456140352" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_show.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_toy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_vaccination.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_verification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_view_vaccines.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/activity_wanted.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/content.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/desgin_row_for_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/layout/vaccines.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/menu/searchbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AuthenticationApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18552631578947368" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/AuthenticationApp/app/src/main/res/drawable/ic_menu.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/AuthenticationApp/app/src/main/res/drawable/ic_menuicon.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/AuthenticationApp/app/src/main/res/layout/activity_login.xml" value="0.3546875" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/AuthenticationApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_bmi_calculator.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_donate_pet.xml" value="0.25" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_equipment.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_food.xml" value="0.18" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_login.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_medicine.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_food.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_list.xml" value="0.33" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycle_view_medicine.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_equipment.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_wanted.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_recycler_view_yoy.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_register.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_reminder.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_show.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_todo_list.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_toy.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_vaccination.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_verification.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_view_vaccines.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/activity_wanted.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/content.xml" value="0.33" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/desgin_row_for_recyclerview.xml" value="0.25" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/header.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/item.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/layout/vaccines.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/nushn/Documents/AndroidStdio/Projects/PetMeV4/AuthenticationApp/app/src/main/res/menu/main_menu.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

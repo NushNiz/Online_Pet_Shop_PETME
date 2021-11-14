@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_add"
+            android:title="Wanted" />
+
+        <item
+            android:id="@+id/nav_addItems"
+            android:icon="@drawable/ic_additem"
+            android:title="Add" />
+
+        <item
+            android:id="@+id/nav_todo"
+            android:icon="@drawable/ic_todo"
+            android:title="To-Do" />
+
+        <item
+            android:id="@+id/nav_vac"
+            android:icon="@drawable/ic_vac"
+            android:title="Vaccination" />
+
+        <item
+            android:id="@+id/nav_bmi"
+            android:icon="@drawable/ic_bmi"
+            android:title="View BMI"/>
+
+        <item
+            android:id="@+id/nav_converter"
+            android:icon="@drawable/ic_convert"
+            android:title="oz to kg"/>
+
+
+
+
+    </group>
+
+
+        <item android:title="Profile">
+            <menu>
+                <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Logout"/>
+
+                </group>
+            </menu>
+
+        </item>
+
+</menu>
+

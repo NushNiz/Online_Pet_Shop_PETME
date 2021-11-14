@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetMe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="showCourse" />
+    <string name="addcourse">Add </string>
+    <string name="showcourse">Show </string>
+    <string name="AddMedicine">Add </string>
+    <string name="ShowMedi">Show </string>
+    <string name="btnaddfood">Add </string>
+    <string name="btnviewfood">View </string>
+    <string name="btn_showMedicine">Show </string>
+    <string name="btn_addMedicine">Add </string>
+    <string name="btnaddwant">Add </string>
+    <string name="btnshowwanted">Show </string>
+</resources>
